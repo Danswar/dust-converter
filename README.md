@@ -7,4 +7,6 @@ It is intended to convert at regular intervals of time, any dust balance into BN
 ## How?
 The general idea is to take advantage of cloud infrastructure. The following diagram explain how this would looks like in an AWS enviroment.
 
-![photo_2022-08-28 12 26 45](https://user-images.githubusercontent.com/48102227/187081832-cb8a8110-41d7-4806-aa21-91ca0cd19230.jpeg)
+<p align="center">
+<img src="./assets/infra-diagram.jpeg" alt="infrastructure diagram" style="margin: 0 auto;"/>
+</p>
