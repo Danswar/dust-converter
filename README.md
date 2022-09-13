@@ -11,3 +11,7 @@ The general idea is to take advantage of cloud infrastructure. The following dia
 <p align="center">
 <img src="./assets/infra-diagram.jpeg" alt="infrastructure diagram" style="margin: 0 auto;"/>
 </p>
+
+## Dust function
+
+Implementation details about the function and conection with the API refers to: https://github.com/Danswar/dust-lambda
